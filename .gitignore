@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.env
+venv/
+app.log
+.DS_Store
+
+# Document processing cache (generated locally by DocumentProcessor)
+document_cache/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Hugging Face model downloads (if cached inside the project instead of ~/.cache)
+.cache/
+*.bin
+*.safetensors

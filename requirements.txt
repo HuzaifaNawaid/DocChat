@@ -1,0 +1,33 @@
+# --- Document processing ---
+docling
+python-dotenv
+pydantic
+pydantic-settings
+
+# --- LangChain + agent framework  ---
+langchain
+langchain-core
+langchain-classic
+langchain-community
+langgraph
+
+# --- LLM: Groq ---
+langchain-groq
+groq
+
+# --- Embeddings: Hugging Face 
+langchain-huggingface
+sentence-transformers
+
+# --- Vector DB: Pinecone ---
+langchain-pinecone
+pinecone
+
+# --- UI: Streamlit ---
+streamlit
+
+# --- Logging ---
+loguru
+
+# --- Search ---
+rank_bm25
